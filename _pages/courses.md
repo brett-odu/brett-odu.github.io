@@ -3,7 +3,6 @@ permalink: /courses/
 title: "Courses"
 ---
 
-<pre>
 ## Fall 2022
 * CS 620    - Introduction to Data Science & Analytics
 * CS 665    - Computer Architecture
@@ -56,4 +55,3 @@ title: "Courses"
 * MATH 162M - Precalculus I
 * PHYS 111N - Introductory General Physics
 * RUS 101F  - Beginning Russian I
-</pre>
