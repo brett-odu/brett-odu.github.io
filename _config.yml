@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Brett Warren"
   avatar           : "bwarren.jpg"
-  bio              : "Computer Scientist, Husband, Father, Grad Student"
-  location         : "Hampton, VA"
-  employer         : "The MITRE Corporation"(https://mitre.org)
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  bio              : "Computer Scientist, Grad Student, Husband, Father"
+  location         : "Poquoson, VA"
+  employer         : "The MITRE Corporation"
+  pubmed           : 
+  googlescholar    : 
   email            : "bwarren@mitre.org"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "linkedin/in/brettawarren"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "brettawarren"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
