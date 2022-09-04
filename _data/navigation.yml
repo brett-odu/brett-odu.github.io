@@ -9,11 +9,11 @@ main:
   - title: "Schedule"
     url: /schedule/ 
 
-  - title: "Courses"
-    url: /courses/    
+  # - title: "Courses"
+  #   url: /courses/    
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
         
   - title: "Navy"
     url: /navy/
