@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brett Warren"
+title                    : "Brett Warren @ MITRE & ODU"
 title_separator          : "-"
 name                     : &name "Brett Warren"
-description              : &description "personal description"
+description              : &description "Computer Scientist"
 url                      : https://brett-odu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brett-odu/brett-odu.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Brett Warren"
   avatar           : "bwarren.jpg"
-  bio              : "Computer Scientist, Grad Student, Husband, Father"
-  location         : "Poquoson, VA"
+  bio              : "Computer Scientist, Husband, Father, Grad Student"
+  location         : "Hampton, VA"
   employer         : "The MITRE Corporation"
   pubmed           : 
   googlescholar    : 
-  email            : "bwarren@mitre.org"
+  email            : "bwarren at mitre dot org"
   researchgate     : 
-  uri              :
+  uri              : "https://brett-odu.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
