@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Brett Warren"
-  avatar           : "/images/bwarren.jpg"
-  bio              : "Computer Scientist, Grad Student, Husband, Father"
-  location         : "Poquoson, VA"
-  employer         : "The MITRE Corporation"
+  avatar           : "bwarren.jpg"
+  bio              : "Computer Scientist, Husband, Father, Grad Student"
+  location         : "Hampton, VA"
+  employer         : "The MITRE Corporation"(https://mitre.org)
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "bwarren@mitre.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
