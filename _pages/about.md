@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at [The MITRE Corporation](https://www.mitre.org/), where I joined the Agile Engineering & Innovation Department in 2022. My interests are primarily in AI/ML and Data Science, but I am a Computer Scientist, so I enjoy solving many different types of problems. I graduated Summa Cum Laude with a [B.S. in Computer Science](https://www.odu.edu/compsci/academics/undergraduate) from [Old Dominion University](https://www.odu.edu/) and am currently pursuing my [M.S. in Computer Science](https://www.odu.edu/compsci/academics/graduate) there as well. Prior to beginning my career in CS, I was a Navy Helicopter Rescue Swimmer as well as a Crew Chief. (For a glimpse at some of that, go [here](/navy/).)
+I am a Software Engineer at [The MITRE Corporation](https://www.mitre.org/), where I joined the Agile Engineering & Innovation Department in 2022. My interests are primarily in AI/ML and Data Science, but I am a Computer Scientist, so I enjoy solving many different types of problems. I graduated Summa Cum Laude with a [B.S. in Computer Science](https://www.odu.edu/compsci/academics/undergraduate) and a minor in Statistics from [Old Dominion University](https://www.odu.edu/) and am currently pursuing my [M.S. in Computer Science](https://www.odu.edu/compsci/academics/graduate) there as well. Prior to beginning my career in CS, I was a Navy Helicopter Rescue Swimmer as well as a Crew Chief. (For a glimpse at some of that, go [here](/navy/).)
 
 ## Activities
 
